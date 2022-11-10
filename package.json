@@ -173,7 +173,7 @@
     "chance": "^1.0.13",
     "concurrently": "3.5.1",
     "dotenv": "^5.0.1",
-    "electron": "^2.0.17",
+    "electron": "^18.3.7",
     "electron-devtools-installer": "^2.2.3",
     "electron-notarize": "^0.2.0",
     "electron-rebuild": "^1.7.3",
